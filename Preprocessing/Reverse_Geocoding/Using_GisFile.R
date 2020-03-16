@@ -1,3 +1,6 @@
+##### old version임, 수정 필요 #######
+
+
 #install.packages("data.table")
 #install.packages("dplyr")
 #install.packages("sp")
